@@ -69,3 +69,24 @@ This study is based on electric power fault. Considering the huge costs and othe
 This study will only be considered successful if the following is achieved:
 
 Train numerous supervised models with relevant data for performance comparison. Model to be preferred for deployment should have an accuracy score of at least 99%. In addition, the model should be simple to understand (and non complex in structure), easy to train and implement, and have a good computational power.
+
+**Definition of terminologies**
+
+**Voltage** is the potential difference between two points in an electric field, which causes current to flow in the circuit. The SI unit for voltage is Volts and denoted as V. Voltage is the cause of the current. V= Work done/Charge
+
+**Current** is the rate of flow of electrons/rate at which electric charge flows in a circuit at a particular point. Current's SI unit is Ampere (A) and current is denoted as I. Current is the effect of the voltage i.e. current cannot flow without voltage. I= Charge/ Time The current flowing in a circuit is directly proportional to the applied voltage and inversely proportional to the resistance of the circuit, provided the temperature remains constant (Ohm's Law). As such, Current (I = V/R)
+
+**A 3-phase power supply system** is a three-wire ac power circuit with each phase ac signal 120 electrical degrees apart. It is a common method of alternating current electric power generation, transmission, and distribution. It is a type of polyphase system and is the most common method used by electrical grids worldwide to transfer power. It is also used to power large motors and other heavy loads.
+
+**Experimental Design**
+
+The following steps wil be taken in this study:
+
+1. Importing libraries and loading datasets
+2. Checking the dataset and the components
+3. Checking for possible anomalies in the dataset
+4. Conducting necessary data preparation procedures
+5. Conducting Exploratory Data Analysis and documenting the findings
+6. Building a baseline model that we will use to compare our models to
+7. Building and optimizing seven supervised machine learning models.
+
