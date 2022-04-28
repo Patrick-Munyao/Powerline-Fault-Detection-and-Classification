@@ -90,3 +90,10 @@ The following steps wil be taken in this study:
 6. Building a baseline model that we will use to compare our models to
 7. Building and optimizing seven supervised machine learning models.
 
+**Contributors**
+
+* Patrick Munyao
+* Hazra Kerubo
+* Jesse Mogere
+* Eunice Wataaru
+
